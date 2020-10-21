@@ -1,0 +1,13 @@
+2020-10-21 16:40:11.064 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-10-21 16:40:11.066 INFO  org.springframework.web.servlet.DispatcherServlet Line:524 - Initializing Servlet 'dispatcherServlet'
+2020-10-21 16:40:11.070 INFO  org.springframework.web.servlet.DispatcherServlet Line:546 - Completed initialization in 4 ms
+2020-10-21 16:40:11.082 INFO  com.logback.controller.LogController Line:29  - info
+2020-10-21 16:40:11.082 INFO  com.logback.controller.LogController Line:29  - info
+2020-10-21 16:40:11.082 INFO  com.logback.controller.LogController Line:29  - info
+2020-10-21 16:40:11.083 INFO  com.logback.controller.LogController Line:29  - info
+2020-10-21 16:40:11.083 INFO  com.logback.controller.LogController Line:29  - info
+2020-10-21 16:40:11.083 INFO  com.logback.controller.LogController Line:29  - info
+2020-10-21 16:40:11.083 INFO  com.logback.controller.LogController Line:29  - info
+2020-10-21 16:40:11.083 INFO  com.logback.controller.LogController Line:29  - info
+2020-10-21 16:40:11.083 INFO  com.logback.controller.LogController Line:29  - info
+2020-10-21 16:40:11.083 INFO  com.logback.controller.LogController Line:29  - info
